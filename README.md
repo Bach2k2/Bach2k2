@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Bach]
+# Hi there 👋, I'm Bach
 
 🚀 Full-stack Developer | Java | Python | Django | Spring Boot | NestJS | Cloud | AI  
 
